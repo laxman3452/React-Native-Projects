@@ -1,0 +1,11 @@
+install yarn too
+npm i -g yarn
+
+npx react-native init coffeeaurcode
+
+npm install everytime to make sure everything works fine after creating npx react-native appname
+
+local.properties ==>>
+sdk.dir = c/://Users//HP//AppData//local//sdk
+
+npx react-native run-android
