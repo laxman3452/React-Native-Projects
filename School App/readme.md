@@ -1,3 +1,3 @@
 link
 
-github.com/laxman3452/React-Native-Projects
+github.com/laxman3452/school-app
